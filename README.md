@@ -11,5 +11,5 @@ Fine-tuning Yolov3 на своих классах с помощью фреймв
 
 ## Используемые источники
 
-Статья - https://medium.com/@ashishkhan/face-detection-with-darknet-yolo-1b3d5d15e824
-Аугментация изображений - https://github.com/Daniil193/NN_retraining
+* Статья - https://medium.com/@ashishkhan/face-detection-with-darknet-yolo-1b3d5d15e824
+* Аугментация изображений - https://github.com/Daniil193/NN_retraining
