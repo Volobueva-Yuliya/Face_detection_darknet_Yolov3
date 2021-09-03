@@ -11,7 +11,7 @@
 #### 2. Настройка darknet  
 Основная работа с Makefile, yolo-obj.cfg, obj.names, obj.data.  
 #### 3. Скачивание предобученных весов  
-darknet19_448.conv.23 (76 Mb) доступно [здесь](#http://pjreddie.com/media/files/darknet19_448.conv.23)  
+darknet19_448.conv.23 (76 Mb) доступно [здесь](http://pjreddie.com/media/files/darknet19_448.conv.23)  
 #### 4. Дообучение Yolov3 на новых 3 классах  
 #### 5. Анализ результатов  
 Детекция лица по фотографии или в режиме реального времени с использованием веб-камеры.
