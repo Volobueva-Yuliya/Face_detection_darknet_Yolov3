@@ -2,6 +2,8 @@
 
 Распознавание лиц в режиме реального времени, а также по изображению. Fine-tuning Yolov3 на своих классах с помощью фреймворка darknet. 
 
+![](https://github.com/Face_detection_darknet_Yolov3/yolo.jpeg)
+
 ## Этапы реализации проекта
 
 #### 1. Подготовка набора данных  
@@ -16,5 +18,8 @@ darknet19_448.conv.23 (76 Mb) доступно ![здесь](http://pjreddie.com
 
 ## Используемые источники
 
-* Статья - https://medium.com/@ashishkhan/face-detection-with-darknet-yolo-1b3d5d15e824  
+* Статья - https://medium.com/@ashishkhan/face-detection-with-darknet-yolo-1b3d5d15e824
+* Yoloface (детекция лиц в режиме реального времени) - https://github.com/sthanhng/yoloface  
 * Аугментация изображений - https://github.com/Daniil193/NN_retraining
+
+
